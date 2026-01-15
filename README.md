@@ -1,5 +1,6 @@
 # Major-Project
 Bug Bounty Reconnaissance Assignment (Revolut)
+
 1️⃣ Identify the Company’s Main Domain
 🎯 Objective
 
